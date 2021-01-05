@@ -1,1 +1,1 @@
-# Kidney_disease_prediction
+# Malaria_detection
